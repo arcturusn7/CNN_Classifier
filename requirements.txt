@@ -1,0 +1,4 @@
+mxnet-cu92 >= 1.3.0
+gluonnlp
+sklearn
+spacy
